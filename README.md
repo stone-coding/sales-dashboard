@@ -9,7 +9,7 @@ Visualizes monthly sales for **2022 / 2023 / 2024** with **Line / Bar / Pie** ch
 
 ## Features
 - Year switcher: 2022 / 2023 / 2024
-- Chart types: Line, Bar, Pie (Chart.js + react-chartjs-2)
+- Chart types: Line, Bar, Pie (react-chartjs-2)
 - Threshold filter: show only months with sales ≥ input
 - Mock data: `src/data/sales.json` (easy to swap for a real API)
 - Accessible controls (labeled select & input)
