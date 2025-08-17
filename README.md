@@ -2,7 +2,7 @@
 
 Visualizes monthly sales for **2022 / 2023 / 2024** with **Line / Bar / Pie** charts and a **custom threshold filter**.
 
-**Live Demo:** https://sales-dashboard-7mrri5b1v-stone-shis-projects.vercel.app/dashboard  
+**Live Demo:** https://sales-dashboard-7mrri5b1v-stone-shis-projects.vercel.app/ 
 **GitHub Repo:** https://github.com/stone-coding/sales-dashboard
 
 ---
