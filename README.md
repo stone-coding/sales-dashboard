@@ -20,7 +20,7 @@ Visualizes monthly sales for **2022 / 2023 / 2024** with **Line / Bar / Pie** ch
 ## Tech Stack
 - **Next.js 15** (App Router) + **TypeScript**
 - **TailwindCSS**
-- **Chart.js** + **react-chartjs-2**
+- **react-chartjs-2**
 
 ---
 
